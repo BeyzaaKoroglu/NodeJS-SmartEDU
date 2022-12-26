@@ -1,1 +1,9 @@
-"# NodeJS-SmartEDU" 
+# Smart EDU
+
+### Dependencies
+- Express
+
+
+### DevDependencies
+- Nodemon
+- Prettier
