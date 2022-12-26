@@ -4,6 +4,7 @@
 
 - Ejs
 - Express
+- Mongoose
 
 ### DevDependencies
 
