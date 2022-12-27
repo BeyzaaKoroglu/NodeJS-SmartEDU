@@ -5,6 +5,7 @@
 - Ejs
 - Express
 - Mongoose
+- Slugify
 
 ### DevDependencies
 
