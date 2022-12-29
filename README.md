@@ -2,6 +2,7 @@
 
 ### Dependencies
 
+- Bcrypt
 - Ejs
 - Express
 - Mongoose
