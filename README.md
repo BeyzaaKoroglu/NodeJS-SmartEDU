@@ -3,10 +3,12 @@
 ### Dependencies
 
 - Bcrypt
+- Connect flash
 - Connect mongo
 - Ejs
 - Express
 - Express session
+- Express validator
 - Mongoose
 - Slugify
 
